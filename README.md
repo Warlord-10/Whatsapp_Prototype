@@ -8,7 +8,11 @@ Using the Tkinter module in Python GUI was created and to establish Server-Clien
 Whatsapp.py --> Main file
 
 Functions.py --> File containing all essential GUI related functions
+
 Contacts.csv --> The contacts file
+
 Reader.py --> Read Write methods
+
 SQL.py --> All database related functions
+
 Whatsapp_server.py --> Server file
