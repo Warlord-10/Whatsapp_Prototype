@@ -46,6 +46,4 @@ except Exception:
     #dropdb()
     createdb()
 
-#insert('9911792465','sql test3','1234567890')
-#insert('1234567890','sql test3','9911792465')
 
